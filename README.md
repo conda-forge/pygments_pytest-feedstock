@@ -5,7 +5,7 @@ Home: https://pypi.org/project/pygments-pytest/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A pygments lexer for pytest output.
 
