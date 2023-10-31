@@ -1,11 +1,11 @@
-About pygments_pytest
-=====================
+About pygments_pytest-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pygments_pytest-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/pygments-pytest/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pygments_pytest-feedstock/blob/main/LICENSE.txt)
 
 Summary: A pygments lexer for pytest output.
 
